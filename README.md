@@ -4,7 +4,9 @@
 
 https://newsst.onrender.com/
 บัญชีx
-
+Web Service
+Build Command: npm install
+Start Command : node server.js
 ## ความสามารถหลัก
 - รายการติดตามเริ่มต้น: NVDA, TSLA, AVGO, EOSE, JEPQ และ VOO
 - แสดงราคาเปลี่ยนแปลงรายวัน ปริมาณซื้อขาย และกราฟย้อนหลัง
